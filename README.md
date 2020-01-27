@@ -2,8 +2,11 @@
 
 **machine-learning.ainotes**
 
-These are my notes on machine learning published on http://bifarinthefifth.com/machine-learning-ai/
-As the readers familiar with Machine Learning will know, there are three pillars to understanding the subject: 1) Mathematics (Linear Algebra, Multivariate Calculus, etc.) 2) Computer programming, and 3) Statistics.
+These are my notes on machine learning published on http://bifarinthefifth.com/machine-learning-ai/ <br>
+As the readers familiar with Machine Learning will know, there are three pillars to understanding the subject: 
+1) Mathematics (Linear Algebra, Multivariate Calculus, etc.) 
+2) Computer programming, and 
+3) Statistics.
 
 And, if it helps, you can always think of machine learning as advanced – or say modern – statistics for computer scientists.
 
