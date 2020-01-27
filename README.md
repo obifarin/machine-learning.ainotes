@@ -1,5 +1,6 @@
-# machine-learning.ainotes
-Introduction to Machine Learning
+# Introduction to Machine Learning
+
+**machine-learning.ainotes**
 
 These are my notes on machine learning published on http://bifarinthefifth.com/machine-learning-ai/
 As the readers familiar with Machine Learning will know, there are three pillars to understanding the subject: 1) Mathematics (Linear Algebra, Multivariate Calculus, etc.) 2) Computer programming, and 3) Statistics.
