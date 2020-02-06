@@ -3,6 +3,7 @@
 **machine-learning.ainotes**
 
 These are my notes on machine learning published on http://bifarinthefifth.com/machine-learning-ai/ <br>
+
 ***Take this notes as a token from a biologist/biochemist learning about machine learning.*** <br>
 
 As the readers familiar with Machine Learning will know, there are three pillars to understanding the subject: 
