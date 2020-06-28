@@ -1,4 +1,4 @@
-# Introduction to Machine Learning (In Progress)
+# Machine Learning Notes (In Progress)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/obifarin/machine-learning.ainotes/master)
 
