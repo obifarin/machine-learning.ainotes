@@ -1,5 +1,10 @@
 # Introduction to Machine Learning (In Progress)
 
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/obifarin/machine-learning.ainotes/master
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/obifarin/machine-learning.ainotes/master)
+
+
 **machine-learning.ainotes**
 
 These are my notes on machine learning published on http://bifarinthefifth.com/machine-learning-ai/ <br>
