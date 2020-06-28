@@ -1,7 +1,5 @@
 # Introduction to Machine Learning (In Progress)
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/obifarin/machine-learning.ainotes/master
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/obifarin/machine-learning.ainotes/master)
 
 
