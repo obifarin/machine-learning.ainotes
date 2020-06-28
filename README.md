@@ -5,7 +5,7 @@
 
 **machine-learning.ainotes**
 
-These are my notes on machine learning published on http://bifarinthefifth.com/machine-learning-ai/ <br>
+These are my notes on machine learning also published on my __[personalblog](http://bifarinthefifth.com/machine-learning-ai/)__ <br>
 
 ***[Take this notes as a token from a biologist/biochemist learning and writing about machine learning.]*** <br>
 
