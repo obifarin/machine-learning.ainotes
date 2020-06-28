@@ -1,10 +1,13 @@
-# Introduction to Machine Learning (In Progress)
+# Machine Learning Notes (In Progress)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/obifarin/machine-learning.ainotes/master)
+
 
 **machine-learning.ainotes**
 
-These are my notes on machine learning published on http://bifarinthefifth.com/machine-learning-ai/ <br>
+These are my notes on machine learning also published on my __[personal blog](http://bifarinthefifth.com/machine-learning-ai/)__ <br>
 
-***[Take this notes as a token from a biologist/biochemist learning and writing about machine learning.]*** <br>
+`Take this notes as a token from a biologist/biochemist learning and writing about machine learning.` <br>
 
 As the readers familiar with Machine Learning will know, there are three pillars to understanding the subject: 
 1) Mathematics (Linear Algebra, Multivariate Calculus, etc.) 
